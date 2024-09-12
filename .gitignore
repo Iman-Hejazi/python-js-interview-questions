@@ -1,0 +1,17 @@
+# system files
+.DS_Store
+
+# Python
+*.pyc
+__pycache__/
+
+# virtual environment directories
+env/
+venv/
+
+#  Pipfile and Pipfile.lock
+Pipfile
+Pipfile.lock
+
+# VSCode settings
+.vscode/
